@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConsumoAPI</string>
+    <string name="btnpesquisar">Pesquisar</string>
+    <string name="btn_search">Pesquisar</string>
+    <string name="digite_o_numero_do_pokemon">Digite o número do pokemon</string>
+</resources>
