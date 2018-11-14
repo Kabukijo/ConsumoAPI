@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btSearchMain"
         android:layout_width="364dp"
         android:layout_height="49dp"
         android:layout_marginEnd="8dp"
